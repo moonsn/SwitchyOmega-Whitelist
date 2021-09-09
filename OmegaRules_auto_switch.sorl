@@ -2520,7 +2520,7 @@ fonts.googleapis.com +direct
 
 
 ; 自定义dns域名，通常是内网ip
-*.m.dev +direct
+*.vmware.com +vmware
 *.moonsn.com +direct
 Ip: 10.117.190.122/24 +direct
 Ip: 172.16.0.0/12 +direct
